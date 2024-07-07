@@ -8,7 +8,7 @@
 
 一致UI 体验, ChatGPT 提示词, 基本兼容 BingAI 所有功能, 一键登录, 支持 API 调用
 
-一键部署, 国内可用, 无需登录即可畅聊
+一键部署, 国内可用, 无需登录即可畅聊 
 
 ![Golang](https://img.shields.io/badge/Golang-1.22.1-blue?style=flat-square&logo=go) ![Vue3](https://img.shields.io/badge/Vue-3.3.2-green?style=flat-square&logo=vue.js)
 
